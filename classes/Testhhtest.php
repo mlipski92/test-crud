@@ -6,7 +6,7 @@ namespace PrestaShop\Module\Testhh\Classes;
 
 use ObjectModel;
 
-class Testhhtest extends ObjectModel
+class Testhh extends ObjectModel
 {
     public $id;
     public $name;

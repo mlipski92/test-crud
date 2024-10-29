@@ -3,10 +3,11 @@ if (!defined('_PS_VERSION_')) {
     exit;
 }
 
-class Testhhtest extends Module
+class Testhh extends Module
 {
     public function __construct()
     {
+
         $this->name = 'testhh';
         $this->tab = 'administration';
         $this->version = '1.0.0';

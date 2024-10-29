@@ -7,7 +7,7 @@ class AdminTesthhController extends ModuleAdminController
     {
         
         $this->table = 'testhh';
-        $this->className = 'Testhhtest';
+        $this->className = 'Testhh';
         $this->bootstrap = true;
         $this->lang = false;
         $this->identifier = 'id_testhh';
